@@ -4,7 +4,7 @@ using System.IO;
 using System.Reflection;
 using SudokuSharp;
 
-namespace SudokuSolver
+namespace SudokuSharpImpl
 {
     class Program
     {
